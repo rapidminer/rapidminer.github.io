@@ -1,5 +1,6 @@
 com.rapidminer.belt.buffer
 com.rapidminer.belt.column
+com.rapidminer.belt.column.io
 com.rapidminer.belt.column.type
 com.rapidminer.belt.execution
 com.rapidminer.belt.function
